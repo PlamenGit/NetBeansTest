@@ -16,7 +16,7 @@ public class JavaApplication63 {
      */
     public static void main(String[] args) {
         SayColor sayColor = new SayColor ();
-        System.out.println(sayColor.say (501));
+        System.out.print(sayColor.say (501));
     }
     
 }
