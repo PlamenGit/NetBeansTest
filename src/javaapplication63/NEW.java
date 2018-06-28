@@ -10,5 +10,5 @@ package javaapplication63;
  * @author PI
  */
 public class NEW {
-    
+    System.out.println("hahaha");
 }
